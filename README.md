@@ -20,7 +20,7 @@ The **Student CRUD CLI** is a command-line interface application designed to man
 ### Clone the Repository
 ```bash
 # Clone the repository to your local machine
-git clone <repository-url>
+git clone https://github.com/OneSAHDEVSINH/Student-Crud-DotNet-CLI.git
 cd StudentICrudCLI
 ```
 
